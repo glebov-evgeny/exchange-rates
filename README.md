@@ -1,4 +1,11 @@
 # exchange-rates
-Display of exchange rates. Currency calculator.
+Display of exchange rates. Currency calculator.<br>
+Rates from https://www.cbr-xml-daily.ru/
 
-https://glebov-evgeny.github.io/exchange-rates/
+
+Link: https://glebov-evgeny.github.io/exchange-rates/
+
+## Features ##
+
+* Actual exchange rates
+* Simple Currency Calculator
