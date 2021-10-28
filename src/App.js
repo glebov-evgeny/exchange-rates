@@ -20,15 +20,11 @@ function App() {
     });
   }, [courses]);
 
-  const ratesVariables = () => {
-
-  }
-
   return (
     <>
       <Header />
       <main className="main">
-        <Calculator ratesVariables={ratesVariables} courses={courses}/>
+        <Calculator courses={courses}/>
         <Courses courses={courses}/>
       </main>
       <Footer />

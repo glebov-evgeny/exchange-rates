@@ -5,5 +5,4 @@ const getCourses = async () => {
     return await response.json();
 };
 
-
 export { getCourses }

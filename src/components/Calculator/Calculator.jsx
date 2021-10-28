@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function Calculator( {courses}, ratesVariables = Function.prototype ) {
+function Calculator({courses}) {
   const [value, setValue] = useState("1");
   const [valuePrice, setValuePrice] = useState("1");
   const [cost, setCost] = useState("1");
