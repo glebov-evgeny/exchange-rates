@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/exchange-rates/static/css/main.e367d435.chunk.css",
-    "main.js": "/exchange-rates/static/js/main.8fc8c7ec.chunk.js",
-    "main.js.map": "/exchange-rates/static/js/main.8fc8c7ec.chunk.js.map",
+    "main.css": "/exchange-rates/static/css/main.16f95f41.chunk.css",
+    "main.js": "/exchange-rates/static/js/main.dc885a82.chunk.js",
+    "main.js.map": "/exchange-rates/static/js/main.dc885a82.chunk.js.map",
     "runtime-main.js": "/exchange-rates/static/js/runtime-main.c8788eed.js",
     "runtime-main.js.map": "/exchange-rates/static/js/runtime-main.c8788eed.js.map",
-    "static/js/2.31303eb8.chunk.js": "/exchange-rates/static/js/2.31303eb8.chunk.js",
-    "static/js/2.31303eb8.chunk.js.map": "/exchange-rates/static/js/2.31303eb8.chunk.js.map",
+    "static/js/2.a4df04ff.chunk.js": "/exchange-rates/static/js/2.a4df04ff.chunk.js",
+    "static/js/2.a4df04ff.chunk.js.map": "/exchange-rates/static/js/2.a4df04ff.chunk.js.map",
     "index.html": "/exchange-rates/index.html",
-    "static/css/main.e367d435.chunk.css.map": "/exchange-rates/static/css/main.e367d435.chunk.css.map",
-    "static/js/2.31303eb8.chunk.js.LICENSE.txt": "/exchange-rates/static/js/2.31303eb8.chunk.js.LICENSE.txt",
+    "static/css/main.16f95f41.chunk.css.map": "/exchange-rates/static/css/main.16f95f41.chunk.css.map",
+    "static/js/2.a4df04ff.chunk.js.LICENSE.txt": "/exchange-rates/static/js/2.a4df04ff.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/exchange-rates/static/media/Roboto-ThinItalic.f476452e.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c8788eed.js",
-    "static/js/2.31303eb8.chunk.js",
-    "static/css/main.e367d435.chunk.css",
-    "static/js/main.8fc8c7ec.chunk.js"
+    "static/js/2.a4df04ff.chunk.js",
+    "static/css/main.16f95f41.chunk.css",
+    "static/js/main.dc885a82.chunk.js"
   ]
 }
